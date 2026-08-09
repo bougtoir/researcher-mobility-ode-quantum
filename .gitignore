@@ -1,0 +1,14 @@
+# OpenAlex API cache (large, regenerable)
+data/cache/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Local testing artifacts
+test_outputs/

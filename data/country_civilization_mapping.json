@@ -1,0 +1,1994 @@
+{
+  "ABW": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AW",
+    "group": "Other Western",
+    "name": "Aruba",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "AFG": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AF",
+    "group": "Islamic",
+    "name": "Afghanistan",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "AGO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AO",
+    "group": "Other Civilizations",
+    "name": "Angola",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "AIA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AI",
+    "group": "Other Western",
+    "name": "Anguilla",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "ALA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AX",
+    "group": "Other Western",
+    "name": "Åland Islands",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "ALB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AL",
+    "group": "Other Civilizations",
+    "name": "Albania",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "AND": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AD",
+    "group": "Other Western",
+    "name": "Andorra",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "ARE": {
+    "ai_ml_works_2022_2023": 4141,
+    "alpha_2": "AE",
+    "group": "Islamic",
+    "name": "United Arab Emirates",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "ARG": {
+    "ai_ml_works_2022_2023": 1107,
+    "alpha_2": "AR",
+    "group": "Other Civilizations",
+    "name": "Argentina",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "ARM": {
+    "ai_ml_works_2022_2023": 217,
+    "alpha_2": "AM",
+    "group": "Other Civilizations",
+    "name": "Armenia",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "ASM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AS",
+    "group": "Other Civilizations",
+    "name": "American Samoa",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "ATA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AQ",
+    "group": "Other Civilizations",
+    "name": "Antarctica",
+    "region": "",
+    "sub_region": ""
+  },
+  "ATF": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TF",
+    "group": "Other Civilizations",
+    "name": "French Southern Territories",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "ATG": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "AG",
+    "group": "Other Civilizations",
+    "name": "Antigua and Barbuda",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "AUS": {
+    "ai_ml_works_2022_2023": 14856,
+    "alpha_2": "AU",
+    "group": "Anglosphere ex-US",
+    "name": "Australia",
+    "region": "Oceania",
+    "sub_region": "Australia and New Zealand"
+  },
+  "AUT": {
+    "ai_ml_works_2022_2023": 5189,
+    "alpha_2": "AT",
+    "group": "Continental Europe",
+    "name": "Austria",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "AZE": {
+    "ai_ml_works_2022_2023": 338,
+    "alpha_2": "AZ",
+    "group": "Islamic",
+    "name": "Azerbaijan",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "BDI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BI",
+    "group": "Other Civilizations",
+    "name": "Burundi",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "BEL": {
+    "ai_ml_works_2022_2023": 4410,
+    "alpha_2": "BE",
+    "group": "Continental Europe",
+    "name": "Belgium",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "BEN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BJ",
+    "group": "Other Civilizations",
+    "name": "Benin",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "BES": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BQ",
+    "group": "Other Western",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BFA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BF",
+    "group": "Other Civilizations",
+    "name": "Burkina Faso",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "BGD": {
+    "ai_ml_works_2022_2023": 3351,
+    "alpha_2": "BD",
+    "group": "Islamic",
+    "name": "Bangladesh",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "BGR": {
+    "ai_ml_works_2022_2023": 1281,
+    "alpha_2": "BG",
+    "group": "Continental Europe",
+    "name": "Bulgaria",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "BHR": {
+    "ai_ml_works_2022_2023": 390,
+    "alpha_2": "BH",
+    "group": "Islamic",
+    "name": "Bahrain",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "BHS": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BS",
+    "group": "Other Civilizations",
+    "name": "Bahamas",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BIH": {
+    "ai_ml_works_2022_2023": 231,
+    "alpha_2": "BA",
+    "group": "Other Civilizations",
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "BLM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BL",
+    "group": "Other Western",
+    "name": "Saint Barthélemy",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BLR": {
+    "ai_ml_works_2022_2023": 318,
+    "alpha_2": "BY",
+    "group": "Other Civilizations",
+    "name": "Belarus",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "BLZ": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BZ",
+    "group": "Other Civilizations",
+    "name": "Belize",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BMU": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BM",
+    "group": "Other Western",
+    "name": "Bermuda",
+    "region": "Americas",
+    "sub_region": "Northern America"
+  },
+  "BOL": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BO",
+    "group": "Other Civilizations",
+    "name": "Bolivia, Plurinational State of",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BRA": {
+    "ai_ml_works_2022_2023": 9323,
+    "alpha_2": "BR",
+    "group": "Other Civilizations",
+    "name": "Brazil",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BRB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BB",
+    "group": "Other Civilizations",
+    "name": "Barbados",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BRN": {
+    "ai_ml_works_2022_2023": 211,
+    "alpha_2": "BN",
+    "group": "Islamic",
+    "name": "Brunei Darussalam",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "BTN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BT",
+    "group": "Hindu",
+    "name": "Bhutan",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "BVT": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BV",
+    "group": "Other Civilizations",
+    "name": "Bouvet Island",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "BWA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "BW",
+    "group": "Other Civilizations",
+    "name": "Botswana",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "CAF": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CF",
+    "group": "Other Civilizations",
+    "name": "Central African Republic",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "CAN": {
+    "ai_ml_works_2022_2023": 17105,
+    "alpha_2": "CA",
+    "group": "Anglosphere ex-US",
+    "name": "Canada",
+    "region": "Americas",
+    "sub_region": "Northern America"
+  },
+  "CCK": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CC",
+    "group": "Other Civilizations",
+    "name": "Cocos (Keeling) Islands",
+    "region": "Oceania",
+    "sub_region": "Australia and New Zealand"
+  },
+  "CHE": {
+    "ai_ml_works_2022_2023": 7625,
+    "alpha_2": "CH",
+    "group": "Continental Europe",
+    "name": "Switzerland",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "CHL": {
+    "ai_ml_works_2022_2023": 1434,
+    "alpha_2": "CL",
+    "group": "Other Civilizations",
+    "name": "Chile",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "CHN": {
+    "ai_ml_works_2022_2023": 140788,
+    "alpha_2": "CN",
+    "group": "Sinic",
+    "name": "China",
+    "region": "Asia",
+    "sub_region": "Eastern Asia"
+  },
+  "CIV": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CI",
+    "group": "Other Civilizations",
+    "name": "Côte d'Ivoire",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "CMR": {
+    "ai_ml_works_2022_2023": 530,
+    "alpha_2": "CM",
+    "group": "Other Civilizations",
+    "name": "Cameroon",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "COD": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CD",
+    "group": "Other Civilizations",
+    "name": "Congo, Democratic Republic of the",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "COG": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CG",
+    "group": "Other Civilizations",
+    "name": "Congo",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "COK": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CK",
+    "group": "Other Civilizations",
+    "name": "Cook Islands",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "COL": {
+    "ai_ml_works_2022_2023": 1283,
+    "alpha_2": "CO",
+    "group": "Other Civilizations",
+    "name": "Colombia",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "COM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "KM",
+    "group": "Islamic",
+    "name": "Comoros",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "CPV": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CV",
+    "group": "Other Civilizations",
+    "name": "Cabo Verde",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "CRI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CR",
+    "group": "Other Civilizations",
+    "name": "Costa Rica",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "CUB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CU",
+    "group": "Other Civilizations",
+    "name": "Cuba",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "CUW": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CW",
+    "group": "Other Western",
+    "name": "Curaçao",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "CXR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "CX",
+    "group": "Other Civilizations",
+    "name": "Christmas Island",
+    "region": "Oceania",
+    "sub_region": "Australia and New Zealand"
+  },
+  "CYM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "KY",
+    "group": "Other Western",
+    "name": "Cayman Islands",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "CYP": {
+    "ai_ml_works_2022_2023": 828,
+    "alpha_2": "CY",
+    "group": "Continental Europe",
+    "name": "Cyprus",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "CZE": {
+    "ai_ml_works_2022_2023": 3476,
+    "alpha_2": "CZ",
+    "group": "Continental Europe",
+    "name": "Czechia",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "DEU": {
+    "ai_ml_works_2022_2023": 29130,
+    "alpha_2": "DE",
+    "group": "Continental Europe",
+    "name": "Germany",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "DJI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "DJ",
+    "group": "Islamic",
+    "name": "Djibouti",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "DMA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "DM",
+    "group": "Other Civilizations",
+    "name": "Dominica",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "DNK": {
+    "ai_ml_works_2022_2023": 3889,
+    "alpha_2": "DK",
+    "group": "Continental Europe",
+    "name": "Denmark",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "DOM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "DO",
+    "group": "Other Civilizations",
+    "name": "Dominican Republic",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "DZA": {
+    "ai_ml_works_2022_2023": 2195,
+    "alpha_2": "DZ",
+    "group": "Islamic",
+    "name": "Algeria",
+    "region": "Africa",
+    "sub_region": "Northern Africa"
+  },
+  "ECU": {
+    "ai_ml_works_2022_2023": 636,
+    "alpha_2": "EC",
+    "group": "Other Civilizations",
+    "name": "Ecuador",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "EGY": {
+    "ai_ml_works_2022_2023": 5021,
+    "alpha_2": "EG",
+    "group": "Islamic",
+    "name": "Egypt",
+    "region": "Africa",
+    "sub_region": "Northern Africa"
+  },
+  "ERI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "ER",
+    "group": "Islamic",
+    "name": "Eritrea",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "ESH": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "EH",
+    "group": "Other Civilizations",
+    "name": "Western Sahara",
+    "region": "Africa",
+    "sub_region": "Northern Africa"
+  },
+  "ESP": {
+    "ai_ml_works_2022_2023": 13125,
+    "alpha_2": "ES",
+    "group": "Continental Europe",
+    "name": "Spain",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "EST": {
+    "ai_ml_works_2022_2023": 639,
+    "alpha_2": "EE",
+    "group": "Continental Europe",
+    "name": "Estonia",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "ETH": {
+    "ai_ml_works_2022_2023": 932,
+    "alpha_2": "ET",
+    "group": "Other Civilizations",
+    "name": "Ethiopia",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "FIN": {
+    "ai_ml_works_2022_2023": 3415,
+    "alpha_2": "FI",
+    "group": "Continental Europe",
+    "name": "Finland",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "FJI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "FJ",
+    "group": "Other Civilizations",
+    "name": "Fiji",
+    "region": "Oceania",
+    "sub_region": "Melanesia"
+  },
+  "FLK": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "FK",
+    "group": "Other Western",
+    "name": "Falkland Islands (Malvinas)",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "FRA": {
+    "ai_ml_works_2022_2023": 23071,
+    "alpha_2": "FR",
+    "group": "Continental Europe",
+    "name": "France",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "FRO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "FO",
+    "group": "Other Western",
+    "name": "Faroe Islands",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "FSM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "FM",
+    "group": "Other Civilizations",
+    "name": "Micronesia, Federated States of",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "GAB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GA",
+    "group": "Other Civilizations",
+    "name": "Gabon",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "GBR": {
+    "ai_ml_works_2022_2023": 29820,
+    "alpha_2": "GB",
+    "group": "Anglosphere ex-US",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "GEO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GE",
+    "group": "Other Civilizations",
+    "name": "Georgia",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "GGY": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GG",
+    "group": "Other Western",
+    "name": "Guernsey",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "GHA": {
+    "ai_ml_works_2022_2023": 727,
+    "alpha_2": "GH",
+    "group": "Other Civilizations",
+    "name": "Ghana",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "GIB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GI",
+    "group": "Other Western",
+    "name": "Gibraltar",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "GIN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GN",
+    "group": "Other Civilizations",
+    "name": "Guinea",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "GLP": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GP",
+    "group": "Other Civilizations",
+    "name": "Guadeloupe",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "GMB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GM",
+    "group": "Other Civilizations",
+    "name": "Gambia",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "GNB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GW",
+    "group": "Other Civilizations",
+    "name": "Guinea-Bissau",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "GNQ": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GQ",
+    "group": "Other Civilizations",
+    "name": "Equatorial Guinea",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "GRC": {
+    "ai_ml_works_2022_2023": 3776,
+    "alpha_2": "GR",
+    "group": "Continental Europe",
+    "name": "Greece",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "GRD": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GD",
+    "group": "Other Civilizations",
+    "name": "Grenada",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "GRL": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GL",
+    "group": "Other Civilizations",
+    "name": "Greenland",
+    "region": "Americas",
+    "sub_region": "Northern America"
+  },
+  "GTM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GT",
+    "group": "Other Civilizations",
+    "name": "Guatemala",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "GUF": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GF",
+    "group": "Other Civilizations",
+    "name": "French Guiana",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "GUM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GU",
+    "group": "Other Civilizations",
+    "name": "Guam",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "GUY": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GY",
+    "group": "Other Civilizations",
+    "name": "Guyana",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "HKG": {
+    "ai_ml_works_2022_2023": 6763,
+    "alpha_2": "HK",
+    "group": "Sinic",
+    "name": "Hong Kong",
+    "region": "Asia",
+    "sub_region": "Eastern Asia"
+  },
+  "HMD": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "HM",
+    "group": "Other Civilizations",
+    "name": "Heard Island and McDonald Islands",
+    "region": "Oceania",
+    "sub_region": "Australia and New Zealand"
+  },
+  "HND": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "HN",
+    "group": "Other Civilizations",
+    "name": "Honduras",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "HRV": {
+    "ai_ml_works_2022_2023": 885,
+    "alpha_2": "HR",
+    "group": "Continental Europe",
+    "name": "Croatia",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "HTI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "HT",
+    "group": "Other Civilizations",
+    "name": "Haiti",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "HUN": {
+    "ai_ml_works_2022_2023": 2003,
+    "alpha_2": "HU",
+    "group": "Continental Europe",
+    "name": "Hungary",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "IDN": {
+    "ai_ml_works_2022_2023": 43436,
+    "alpha_2": "ID",
+    "group": "Islamic",
+    "name": "Indonesia",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "IMN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "IM",
+    "group": "Other Western",
+    "name": "Isle of Man",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "IND": {
+    "ai_ml_works_2022_2023": 52279,
+    "alpha_2": "IN",
+    "group": "Hindu",
+    "name": "India",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "IOT": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "IO",
+    "group": "Other Civilizations",
+    "name": "British Indian Ocean Territory",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "IRL": {
+    "ai_ml_works_2022_2023": 2649,
+    "alpha_2": "IE",
+    "group": "Anglosphere ex-US",
+    "name": "Ireland",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "IRN": {
+    "ai_ml_works_2022_2023": 6782,
+    "alpha_2": "IR",
+    "group": "Islamic",
+    "name": "Iran, Islamic Republic of",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "IRQ": {
+    "ai_ml_works_2022_2023": 4197,
+    "alpha_2": "IQ",
+    "group": "Islamic",
+    "name": "Iraq",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "ISL": {
+    "ai_ml_works_2022_2023": 250,
+    "alpha_2": "IS",
+    "group": "Continental Europe",
+    "name": "Iceland",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "ISR": {
+    "ai_ml_works_2022_2023": 3847,
+    "alpha_2": "IL",
+    "group": "Other Western",
+    "name": "Israel",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "ITA": {
+    "ai_ml_works_2022_2023": 18284,
+    "alpha_2": "IT",
+    "group": "Continental Europe",
+    "name": "Italy",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "JAM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "JM",
+    "group": "Other Civilizations",
+    "name": "Jamaica",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "JEY": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "JE",
+    "group": "Other Western",
+    "name": "Jersey",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "JOR": {
+    "ai_ml_works_2022_2023": 3000,
+    "alpha_2": "JO",
+    "group": "Islamic",
+    "name": "Jordan",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "JPN": {
+    "ai_ml_works_2022_2023": 16929,
+    "alpha_2": "JP",
+    "group": "Japanese",
+    "name": "Japan",
+    "region": "Asia",
+    "sub_region": "Eastern Asia"
+  },
+  "KAZ": {
+    "ai_ml_works_2022_2023": 827,
+    "alpha_2": "KZ",
+    "group": "Islamic",
+    "name": "Kazakhstan",
+    "region": "Asia",
+    "sub_region": "Central Asia"
+  },
+  "KEN": {
+    "ai_ml_works_2022_2023": 531,
+    "alpha_2": "KE",
+    "group": "Other Civilizations",
+    "name": "Kenya",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "KGZ": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "KG",
+    "group": "Islamic",
+    "name": "Kyrgyzstan",
+    "region": "Asia",
+    "sub_region": "Central Asia"
+  },
+  "KHM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "KH",
+    "group": "Other Civilizations",
+    "name": "Cambodia",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "KIR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "KI",
+    "group": "Other Civilizations",
+    "name": "Kiribati",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "KNA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "KN",
+    "group": "Other Civilizations",
+    "name": "Saint Kitts and Nevis",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "KOR": {
+    "ai_ml_works_2022_2023": 11953,
+    "alpha_2": "KR",
+    "group": "Sinic",
+    "name": "Korea, Republic of",
+    "region": "Asia",
+    "sub_region": "Eastern Asia"
+  },
+  "KWT": {
+    "ai_ml_works_2022_2023": 466,
+    "alpha_2": "KW",
+    "group": "Islamic",
+    "name": "Kuwait",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "LAO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "LA",
+    "group": "Other Civilizations",
+    "name": "Lao People's Democratic Republic",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "LBN": {
+    "ai_ml_works_2022_2023": 924,
+    "alpha_2": "LB",
+    "group": "Islamic",
+    "name": "Lebanon",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "LBR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "LR",
+    "group": "Other Civilizations",
+    "name": "Liberia",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "LBY": {
+    "ai_ml_works_2022_2023": 207,
+    "alpha_2": "LY",
+    "group": "Islamic",
+    "name": "Libya",
+    "region": "Africa",
+    "sub_region": "Northern Africa"
+  },
+  "LCA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "LC",
+    "group": "Other Civilizations",
+    "name": "Saint Lucia",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "LIE": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "LI",
+    "group": "Continental Europe",
+    "name": "Liechtenstein",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "LKA": {
+    "ai_ml_works_2022_2023": 704,
+    "alpha_2": "LK",
+    "group": "Hindu",
+    "name": "Sri Lanka",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "LSO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "LS",
+    "group": "Other Civilizations",
+    "name": "Lesotho",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "LTU": {
+    "ai_ml_works_2022_2023": 520,
+    "alpha_2": "LT",
+    "group": "Continental Europe",
+    "name": "Lithuania",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "LUX": {
+    "ai_ml_works_2022_2023": 740,
+    "alpha_2": "LU",
+    "group": "Continental Europe",
+    "name": "Luxembourg",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "LVA": {
+    "ai_ml_works_2022_2023": 414,
+    "alpha_2": "LV",
+    "group": "Continental Europe",
+    "name": "Latvia",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "MAC": {
+    "ai_ml_works_2022_2023": 1393,
+    "alpha_2": "MO",
+    "group": "Sinic",
+    "name": "Macao",
+    "region": "Asia",
+    "sub_region": "Eastern Asia"
+  },
+  "MAF": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MF",
+    "group": "Other Western",
+    "name": "Saint Martin (French part)",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "MAR": {
+    "ai_ml_works_2022_2023": 2693,
+    "alpha_2": "MA",
+    "group": "Islamic",
+    "name": "Morocco",
+    "region": "Africa",
+    "sub_region": "Northern Africa"
+  },
+  "MCO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MC",
+    "group": "Other Western",
+    "name": "Monaco",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "MDA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MD",
+    "group": "Other Civilizations",
+    "name": "Moldova, Republic of",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "MDG": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MG",
+    "group": "Other Civilizations",
+    "name": "Madagascar",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "MDV": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MV",
+    "group": "Islamic",
+    "name": "Maldives",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "MEX": {
+    "ai_ml_works_2022_2023": 3199,
+    "alpha_2": "MX",
+    "group": "Other Civilizations",
+    "name": "Mexico",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "MHL": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MH",
+    "group": "Other Civilizations",
+    "name": "Marshall Islands",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "MKD": {
+    "ai_ml_works_2022_2023": 225,
+    "alpha_2": "MK",
+    "group": "Other Civilizations",
+    "name": "North Macedonia",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "MLI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "ML",
+    "group": "Islamic",
+    "name": "Mali",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "MLT": {
+    "ai_ml_works_2022_2023": 225,
+    "alpha_2": "MT",
+    "group": "Continental Europe",
+    "name": "Malta",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "MMR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MM",
+    "group": "Other Civilizations",
+    "name": "Myanmar",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "MNE": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "ME",
+    "group": "Other Civilizations",
+    "name": "Montenegro",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "MNG": {
+    "ai_ml_works_2022_2023": 263,
+    "alpha_2": "MN",
+    "group": "Other Civilizations",
+    "name": "Mongolia",
+    "region": "Asia",
+    "sub_region": "Eastern Asia"
+  },
+  "MNP": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MP",
+    "group": "Other Civilizations",
+    "name": "Northern Mariana Islands",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "MOZ": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MZ",
+    "group": "Other Civilizations",
+    "name": "Mozambique",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "MRT": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MR",
+    "group": "Islamic",
+    "name": "Mauritania",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "MSR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MS",
+    "group": "Other Western",
+    "name": "Montserrat",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "MTQ": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MQ",
+    "group": "Other Civilizations",
+    "name": "Martinique",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "MUS": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MU",
+    "group": "Other Civilizations",
+    "name": "Mauritius",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "MWI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "MW",
+    "group": "Other Civilizations",
+    "name": "Malawi",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "MYS": {
+    "ai_ml_works_2022_2023": 7375,
+    "alpha_2": "MY",
+    "group": "Islamic",
+    "name": "Malaysia",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "MYT": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "YT",
+    "group": "Other Civilizations",
+    "name": "Mayotte",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "NAM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "NA",
+    "group": "Other Civilizations",
+    "name": "Namibia",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "NCL": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "NC",
+    "group": "Other Civilizations",
+    "name": "New Caledonia",
+    "region": "Oceania",
+    "sub_region": "Melanesia"
+  },
+  "NER": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "NE",
+    "group": "Islamic",
+    "name": "Niger",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "NFK": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "NF",
+    "group": "Other Civilizations",
+    "name": "Norfolk Island",
+    "region": "Oceania",
+    "sub_region": "Australia and New Zealand"
+  },
+  "NGA": {
+    "ai_ml_works_2022_2023": 3056,
+    "alpha_2": "NG",
+    "group": "Other Civilizations",
+    "name": "Nigeria",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "NIC": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "NI",
+    "group": "Other Civilizations",
+    "name": "Nicaragua",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "NIU": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "NU",
+    "group": "Other Civilizations",
+    "name": "Niue",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "NLD": {
+    "ai_ml_works_2022_2023": 9509,
+    "alpha_2": "NL",
+    "group": "Continental Europe",
+    "name": "Netherlands, Kingdom of the",
+    "region": "Europe",
+    "sub_region": "Western Europe"
+  },
+  "NOR": {
+    "ai_ml_works_2022_2023": 3739,
+    "alpha_2": "NO",
+    "group": "Continental Europe",
+    "name": "Norway",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "NPL": {
+    "ai_ml_works_2022_2023": 762,
+    "alpha_2": "NP",
+    "group": "Hindu",
+    "name": "Nepal",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "NRU": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "NR",
+    "group": "Other Civilizations",
+    "name": "Nauru",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "NZL": {
+    "ai_ml_works_2022_2023": 1791,
+    "alpha_2": "NZ",
+    "group": "Anglosphere ex-US",
+    "name": "New Zealand",
+    "region": "Oceania",
+    "sub_region": "Australia and New Zealand"
+  },
+  "OMN": {
+    "ai_ml_works_2022_2023": 664,
+    "alpha_2": "OM",
+    "group": "Islamic",
+    "name": "Oman",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "PAK": {
+    "ai_ml_works_2022_2023": 5850,
+    "alpha_2": "PK",
+    "group": "Islamic",
+    "name": "Pakistan",
+    "region": "Asia",
+    "sub_region": "Southern Asia"
+  },
+  "PAN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PA",
+    "group": "Other Civilizations",
+    "name": "Panama",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "PCN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PN",
+    "group": "Other Western",
+    "name": "Pitcairn",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "PER": {
+    "ai_ml_works_2022_2023": 645,
+    "alpha_2": "PE",
+    "group": "Other Civilizations",
+    "name": "Peru",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "PHL": {
+    "ai_ml_works_2022_2023": 1414,
+    "alpha_2": "PH",
+    "group": "Other Civilizations",
+    "name": "Philippines",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "PLW": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PW",
+    "group": "Other Civilizations",
+    "name": "Palau",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "PNG": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PG",
+    "group": "Other Civilizations",
+    "name": "Papua New Guinea",
+    "region": "Oceania",
+    "sub_region": "Melanesia"
+  },
+  "POL": {
+    "ai_ml_works_2022_2023": 5653,
+    "alpha_2": "PL",
+    "group": "Continental Europe",
+    "name": "Poland",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "PRI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PR",
+    "group": "Other Civilizations",
+    "name": "Puerto Rico",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "PRK": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "KP",
+    "group": "Sinic",
+    "name": "Korea, Democratic People's Republic of",
+    "region": "Asia",
+    "sub_region": "Eastern Asia"
+  },
+  "PRT": {
+    "ai_ml_works_2022_2023": 3946,
+    "alpha_2": "PT",
+    "group": "Continental Europe",
+    "name": "Portugal",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "PRY": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PY",
+    "group": "Other Civilizations",
+    "name": "Paraguay",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "PSE": {
+    "ai_ml_works_2022_2023": 331,
+    "alpha_2": "PS",
+    "group": "Islamic",
+    "name": "Palestine, State of",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "PYF": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PF",
+    "group": "Other Civilizations",
+    "name": "French Polynesia",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "QAT": {
+    "ai_ml_works_2022_2023": 1068,
+    "alpha_2": "QA",
+    "group": "Islamic",
+    "name": "Qatar",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "REU": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "RE",
+    "group": "Other Civilizations",
+    "name": "Réunion",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "ROU": {
+    "ai_ml_works_2022_2023": 2325,
+    "alpha_2": "RO",
+    "group": "Continental Europe",
+    "name": "Romania",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "RUS": {
+    "ai_ml_works_2022_2023": 11489,
+    "alpha_2": "RU",
+    "group": "Other Civilizations",
+    "name": "Russian Federation",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "RWA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "RW",
+    "group": "Other Civilizations",
+    "name": "Rwanda",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SAU": {
+    "ai_ml_works_2022_2023": 8981,
+    "alpha_2": "SA",
+    "group": "Islamic",
+    "name": "Saudi Arabia",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "SDN": {
+    "ai_ml_works_2022_2023": 232,
+    "alpha_2": "SD",
+    "group": "Islamic",
+    "name": "Sudan",
+    "region": "Africa",
+    "sub_region": "Northern Africa"
+  },
+  "SEN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SN",
+    "group": "Other Civilizations",
+    "name": "Senegal",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SGP": {
+    "ai_ml_works_2022_2023": 6329,
+    "alpha_2": "SG",
+    "group": "Sinic",
+    "name": "Singapore",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "SGS": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "GS",
+    "group": "Other Western",
+    "name": "South Georgia and the South Sandwich Islands",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "SHN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SH",
+    "group": "Other Western",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SJM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SJ",
+    "group": "Continental Europe",
+    "name": "Svalbard and Jan Mayen",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "SLB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SB",
+    "group": "Other Civilizations",
+    "name": "Solomon Islands",
+    "region": "Oceania",
+    "sub_region": "Melanesia"
+  },
+  "SLE": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SL",
+    "group": "Other Civilizations",
+    "name": "Sierra Leone",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SLV": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SV",
+    "group": "Other Civilizations",
+    "name": "El Salvador",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "SMR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SM",
+    "group": "Other Western",
+    "name": "San Marino",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "SOM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SO",
+    "group": "Islamic",
+    "name": "Somalia",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SPM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "PM",
+    "group": "Other Civilizations",
+    "name": "Saint Pierre and Miquelon",
+    "region": "Americas",
+    "sub_region": "Northern America"
+  },
+  "SRB": {
+    "ai_ml_works_2022_2023": 1082,
+    "alpha_2": "RS",
+    "group": "Other Civilizations",
+    "name": "Serbia",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "SSD": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SS",
+    "group": "Other Civilizations",
+    "name": "South Sudan",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "STP": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "ST",
+    "group": "Other Civilizations",
+    "name": "Sao Tome and Principe",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SUR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SR",
+    "group": "Other Civilizations",
+    "name": "Suriname",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "SVK": {
+    "ai_ml_works_2022_2023": 1067,
+    "alpha_2": "SK",
+    "group": "Continental Europe",
+    "name": "Slovakia",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "SVN": {
+    "ai_ml_works_2022_2023": 1069,
+    "alpha_2": "SI",
+    "group": "Continental Europe",
+    "name": "Slovenia",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "SWE": {
+    "ai_ml_works_2022_2023": 5519,
+    "alpha_2": "SE",
+    "group": "Continental Europe",
+    "name": "Sweden",
+    "region": "Europe",
+    "sub_region": "Northern Europe"
+  },
+  "SWZ": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SZ",
+    "group": "Other Civilizations",
+    "name": "Eswatini",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SXM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SX",
+    "group": "Other Western",
+    "name": "Sint Maarten (Dutch part)",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "SYC": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SC",
+    "group": "Other Civilizations",
+    "name": "Seychelles",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "SYR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "SY",
+    "group": "Islamic",
+    "name": "Syrian Arab Republic",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "TCA": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TC",
+    "group": "Other Western",
+    "name": "Turks and Caicos Islands",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "TCD": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TD",
+    "group": "Islamic",
+    "name": "Chad",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "TGO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TG",
+    "group": "Other Civilizations",
+    "name": "Togo",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "THA": {
+    "ai_ml_works_2022_2023": 2179,
+    "alpha_2": "TH",
+    "group": "Other Civilizations",
+    "name": "Thailand",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "TJK": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TJ",
+    "group": "Islamic",
+    "name": "Tajikistan",
+    "region": "Asia",
+    "sub_region": "Central Asia"
+  },
+  "TKL": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TK",
+    "group": "Other Civilizations",
+    "name": "Tokelau",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "TKM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TM",
+    "group": "Islamic",
+    "name": "Turkmenistan",
+    "region": "Asia",
+    "sub_region": "Central Asia"
+  },
+  "TLS": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TL",
+    "group": "Other Civilizations",
+    "name": "Timor-Leste",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "TON": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TO",
+    "group": "Other Civilizations",
+    "name": "Tonga",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "TTO": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TT",
+    "group": "Other Civilizations",
+    "name": "Trinidad and Tobago",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "TUN": {
+    "ai_ml_works_2022_2023": 1763,
+    "alpha_2": "TN",
+    "group": "Islamic",
+    "name": "Tunisia",
+    "region": "Africa",
+    "sub_region": "Northern Africa"
+  },
+  "TUR": {
+    "ai_ml_works_2022_2023": 8823,
+    "alpha_2": "TR",
+    "group": "Islamic",
+    "name": "Türkiye",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "TUV": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "TV",
+    "group": "Other Civilizations",
+    "name": "Tuvalu",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "TWN": {
+    "ai_ml_works_2022_2023": 5613,
+    "alpha_2": "TW",
+    "group": "Sinic",
+    "name": "Taiwan, Province of China",
+    "region": "",
+    "sub_region": ""
+  },
+  "TZA": {
+    "ai_ml_works_2022_2023": 277,
+    "alpha_2": "TZ",
+    "group": "Other Civilizations",
+    "name": "Tanzania, United Republic of",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "UGA": {
+    "ai_ml_works_2022_2023": 189,
+    "alpha_2": "UG",
+    "group": "Other Civilizations",
+    "name": "Uganda",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "UKR": {
+    "ai_ml_works_2022_2023": 2390,
+    "alpha_2": "UA",
+    "group": "Other Civilizations",
+    "name": "Ukraine",
+    "region": "Europe",
+    "sub_region": "Eastern Europe"
+  },
+  "UMI": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "UM",
+    "group": "Other Civilizations",
+    "name": "United States Minor Outlying Islands",
+    "region": "Oceania",
+    "sub_region": "Micronesia"
+  },
+  "URY": {
+    "ai_ml_works_2022_2023": 182,
+    "alpha_2": "UY",
+    "group": "Other Civilizations",
+    "name": "Uruguay",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "USA": {
+    "ai_ml_works_2022_2023": 100154,
+    "alpha_2": "US",
+    "group": "United States",
+    "name": "United States of America",
+    "region": "Americas",
+    "sub_region": "Northern America"
+  },
+  "UZB": {
+    "ai_ml_works_2022_2023": 578,
+    "alpha_2": "UZ",
+    "group": "Islamic",
+    "name": "Uzbekistan",
+    "region": "Asia",
+    "sub_region": "Central Asia"
+  },
+  "VAT": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "VA",
+    "group": "Other Western",
+    "name": "Holy See",
+    "region": "Europe",
+    "sub_region": "Southern Europe"
+  },
+  "VCT": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "VC",
+    "group": "Other Civilizations",
+    "name": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "VEN": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "VE",
+    "group": "Other Civilizations",
+    "name": "Venezuela, Bolivarian Republic of",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "VGB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "VG",
+    "group": "Other Western",
+    "name": "Virgin Islands (British)",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "VIR": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "VI",
+    "group": "Other Civilizations",
+    "name": "Virgin Islands (U.S.)",
+    "region": "Americas",
+    "sub_region": "Latin America and the Caribbean"
+  },
+  "VNM": {
+    "ai_ml_works_2022_2023": 3079,
+    "alpha_2": "VN",
+    "group": "Sinic",
+    "name": "Viet Nam",
+    "region": "Asia",
+    "sub_region": "South-eastern Asia"
+  },
+  "VUT": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "VU",
+    "group": "Other Civilizations",
+    "name": "Vanuatu",
+    "region": "Oceania",
+    "sub_region": "Melanesia"
+  },
+  "WLF": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "WF",
+    "group": "Other Civilizations",
+    "name": "Wallis and Futuna",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "WSM": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "WS",
+    "group": "Other Civilizations",
+    "name": "Samoa",
+    "region": "Oceania",
+    "sub_region": "Polynesia"
+  },
+  "YEM": {
+    "ai_ml_works_2022_2023": 544,
+    "alpha_2": "YE",
+    "group": "Islamic",
+    "name": "Yemen",
+    "region": "Asia",
+    "sub_region": "Western Asia"
+  },
+  "ZAF": {
+    "ai_ml_works_2022_2023": 2607,
+    "alpha_2": "ZA",
+    "group": "Other Civilizations",
+    "name": "South Africa",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "ZMB": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "ZM",
+    "group": "Other Civilizations",
+    "name": "Zambia",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  },
+  "ZWE": {
+    "ai_ml_works_2022_2023": 0,
+    "alpha_2": "ZW",
+    "group": "Other Civilizations",
+    "name": "Zimbabwe",
+    "region": "Africa",
+    "sub_region": "Sub-Saharan Africa"
+  }
+}
